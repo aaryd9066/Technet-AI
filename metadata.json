@@ -1,0 +1,8 @@
+{
+  "name": "Technet AI",
+  "description": "A multi-functional AI studio featuring chat, image generation, video creation, and AI-powered image editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
